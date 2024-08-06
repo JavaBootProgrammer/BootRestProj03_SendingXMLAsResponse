@@ -1,2 +1,2 @@
-# BootRestProj03_SendingXMLAsResponse
+# BootRestProj03_SendingJsonAsResponse
 BootRestProj03_SendingXMLAsResponse
