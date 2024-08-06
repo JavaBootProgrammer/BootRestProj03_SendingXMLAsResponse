@@ -22,3 +22,23 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+target/classes/application.properties
+target/m2e-wtp/web-resources/META-INF/MANIFEST.MF
+target/m2e-wtp/web-resources/META-INF/maven/com.nt/BootRestProj03_SendingJsonAsResponse/pom.properties
+target/m2e-wtp/web-resources/META-INF/maven/com.nt/BootRestProj03_SendingJsonAsResponse/pom.xml
+target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst
+target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
+target/surefire-reports/com.nt.BootRestProj03SendingJsonAsResponseApplicationTests.txt
+target/surefire-reports/TEST-com.nt.BootRestProj03SendingJsonAsResponseApplicationTests.xml
+.idea/httpRequests/2024-08-06T153803.200.json
+.idea/httpRequests/2024-08-06T153814.200.json
+.idea/httpRequests/2024-08-06T154910.200.json
+.idea/httpRequests/2024-08-06T155048.200.json
+.idea/httpRequests/2024-08-06T155052.200.json
+.idea/httpRequests/2024-08-06T155109.200.json
+.idea/httpRequests/2024-08-06T155111.200.json
+.idea/httpRequests/2024-08-06T155701.200.json
+.idea/httpRequests/http-client.cookies
+.idea/httpRequests/http-requests-log.http
